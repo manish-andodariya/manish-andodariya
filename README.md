@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @manish-andodariya.
 - 👀 I’m interested in full-stack developement.
-- 🌱 I’m currently learning new technologies.
+- 🌱 I’m currently learning BE in CE.
 - 📫 Reach me 
 https://myself-manish.web.app/
 
