@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @manish-andodariya.
 - 👀 I’m interested in full-stack developement.
 - 🌱 I’m currently learning new technologies.
-- 📫 How to reach me 
+- 📫 Reach me 
 https://myself-manish.web.app/
 
 <!---
