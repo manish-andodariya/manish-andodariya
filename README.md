@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @manish-andodariya.
-- 👀 I’m interested in full-stack developement.
-- 🌱 I’m currently learning BE in CE.
+- 👀 I’m a full-stack developer in india.
+- 🌱 Graduated in Computer Engineering.
 - 📫 Reach me 
 https://myself-manish.web.app/
 
